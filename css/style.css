@@ -297,9 +297,7 @@ button:focus {
 .home_banner_area {
   position: relative;
   z-index: 1;
-  background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
+  background-image: linear-gradient(to right top, #ffffff, #eae3ff, #d8c6ff, #c8a9ff, #bb8aff, #b176ff, #a762ff, #9d4bff, #903dff, #822eff, #711dff, #5d00ff);
   margin-bottom: 200px; }
   .home_banner_area .box_1620 {
     min-height: 700px;
