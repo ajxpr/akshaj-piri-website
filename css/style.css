@@ -220,7 +220,8 @@ button:focus {
       font-size: 12px;
       line-height: 60px;
       display: inline-block;
-      color: #222222;
+      #color: #222222;
+      color: #FFFFFF;
       margin-left: 80px; }
       .header_area .navbar .search i {
         font-weight: 600; }
@@ -245,7 +246,8 @@ button:focus {
     margin-right: 15px; }
     .top_menu .header_social li a {
       font-size: 14px;
-      color: #777777;
+      #color: #777777;
+      color: #FFFFFF;
       display: inline-block;
       line-height: 42px;
       transition: all 300ms linear 0s; }
@@ -260,10 +262,12 @@ button:focus {
     margin-right: 30px;
     font-family: "Roboto", sans-serif;
     font-weight: normal;
-    color: #777777;
+    #color: #777777;
+    color: #FFFFFF;
     transition: all 300ms linear 0s; }
     .top_menu .dn_btn:hover {
-      color: #766dff; }
+      #color: #766dff;
+      color: #FFFFFF;}
     .top_menu .dn_btn:last-child {
       margin-right: 0px; }
   .top_menu .lan_pack {
@@ -276,12 +280,14 @@ button:focus {
     font-weight: 500;
     padding-left: 19px;
     padding-right: 36px;
-    color: #777777;
+    #color: #777777;
+    color: #FFFFFF;
     background: #f9f9ff;
     margin-right: 5px;
     margin-top: 8px; }
     .top_menu .lan_pack .current {
-      color: #777777; }
+      #color: #777777;
+      color: #FFFFFF;}
     .top_menu .lan_pack:after {
       content: "\f0d7";
       border: none !important;
@@ -316,7 +322,8 @@ button:focus {
     min-height: 700px;
     display: flex; }
     .home_banner_area .banner_inner .banner_content {
-      color: #222222;
+      #color: #222222;
+      color: #FFFFFF;
       vertical-align: middle;
       align-self: center;
       text-align: left; }
@@ -333,7 +340,8 @@ button:focus {
   overflow: hidden;
   margin-bottom: 0px; }
   .blog_banner .banner_inner {
-    background: #04091e;
+    #background: #04091e;
+    background: #FFFFFF;
     position: relative;
     overflow: hidden;
     width: 100%;
